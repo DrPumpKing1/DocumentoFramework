@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "6db6d17bc6ff7f2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "573ba2ef8640c4d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "301524b8ea8e30c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Índice.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "f7b55f754fb82155",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e291241f6b0731c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e9ac7fb05099c173",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c2191486c01af51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2200e6cfff1820a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6773cf128e5a631b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "737139d51a4bcf28",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5f151b014d8b16a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4fe1fd555d8a956",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04c19657e567fddd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Índice.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fa191946bd49ea3f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Índice.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ca411302577c78d1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0768c2019b538006",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Índice.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "301524b8ea8e30c0",
+  "lastOpenFiles": [
+    "Índice.md"
+  ]
+}
