@@ -1,0 +1,1 @@
+Son las variables que manejan el estado interno de cada característica por separado y del controlador como la suma de todas sus características. Por ejemplo, en el caso de una característica **vida** de una entidad **jugador**, su estado interno puede marcar cuanta es su **vida actua**l.

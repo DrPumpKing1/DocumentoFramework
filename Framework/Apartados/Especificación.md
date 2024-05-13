@@ -1,0 +1,1 @@
+![[Framework.drawio.png|650]]

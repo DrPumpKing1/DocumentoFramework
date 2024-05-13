@@ -1,0 +1,1 @@
+En este canal el controlador puede llamar el método `FeatureAction(Controller)` de una característica específica si es requerido desde una llamada del método `CallFeature(Type)`.

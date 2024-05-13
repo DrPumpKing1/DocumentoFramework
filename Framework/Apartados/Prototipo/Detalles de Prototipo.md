@@ -1,0 +1,2 @@
+Se va a crear una instancia completa del framework en Unity 2D y se va a crear un controlador de un jugador con un estado interno basado en una interfaz de entidad cinética. Las características que va a tener este jugador son:
+- Movimiento (Adicionalmente limita la velocidad)

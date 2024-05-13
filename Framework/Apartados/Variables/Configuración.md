@@ -1,0 +1,1 @@
+La variable tipo configuración hace referencia a la instancia de la clase [[Settings]] que es asignada al controlador y que es transmitida a todas las características en el [[Setup]].

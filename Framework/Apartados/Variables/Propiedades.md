@@ -1,0 +1,1 @@
+Las propiedades son las variables específicas que toma cada característica de su variable de tipo [[Configuración]], estos valores se fijan en el [[Setup]] de forma estática y pueden actualizarse de forma dinámica a lo largo del **gameplay**. Cada característica toma las propiedades que maneja, por ejemplo: en el caso de la **vida del jugador** podría tomar la **vida máxima**.

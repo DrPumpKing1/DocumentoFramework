@@ -1,0 +1,1 @@
+Guardan referencias inferiores a otros componentes, en el caso de las características serían otros componentes fuera del **Framework** y en el case de los controladores sería el diccionario de las características y otros componentes.

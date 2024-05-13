@@ -1,0 +1,1 @@
+Los principios sobre los que se basa este framework son el **MVC** y el **SOLID** con un enfoque a la programación de videojuegos.

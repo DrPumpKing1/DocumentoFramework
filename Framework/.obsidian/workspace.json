@@ -20,20 +20,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "f7b55f754fb82155",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4e291241f6b0731c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -162,6 +148,43 @@
   },
   "active": "301524b8ea8e30c0",
   "lastOpenFiles": [
-    "Índice.md"
+    "Imágenes/diagram.png",
+    "Apartados/Prototipo/Detalles de Prototipo.md",
+    "Apartados/Prototipo/Prototipo.md",
+    "Apartados/Prototipo",
+    "Apartados/Funcionamiento/Feature.md",
+    "Índice.md",
+    "Apartados/Especificación.md",
+    "Apartados/Arquitectura.md",
+    "Apartados/Funcionamiento/Controller.md",
+    "Apartados/Variables/Tipos de Variables.md",
+    "Apartados",
+    "Apartados/Principios.md",
+    "Imágenes/Instagram Square Pyramid Chart - CC.png",
+    "Imágenes/Framework.drawio.png",
+    "Imágenes/EstadoController.drawio.png",
+    "Apartados/Funcionamiento/Funcionamiento.md",
+    "Apartados/Funcionamiento/Controller/Estado del Controller.md",
+    "Apartados/Funcionamiento/Controller/Update.md",
+    "Apartados/Funcionamiento/Controller/Call To Action.md",
+    "Apartados/Funcionamiento/Controller/Setup.md",
+    "Apartados/Variables/Estado.md",
+    "Apartados/Funcionamiento/Settings.md",
+    "Apartados/Funcionamiento/Controller",
+    "Apartados/Funcionamiento/IActivable.md",
+    "Apartados/Funcionamiento/IFeature.md",
+    "Apartados/Funcionamiento",
+    "Apartados/Variables/Jerarquía de componentes.md",
+    "Implementación/Implementación.md",
+    "Implementación/Settings.md",
+    "Apartados/Variables/Referencias.md",
+    "Apartados/Variables/Componentes.md",
+    "Apartados/Variables/Propiedades.md",
+    "Apartados/Variables/Configuración.md",
+    "Implementación",
+    "Apartados/Variables",
+    "Imágenes/Componentes.drawio.png",
+    "Especificación",
+    "Imágenes"
   ]
 }

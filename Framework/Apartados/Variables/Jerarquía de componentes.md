@@ -1,0 +1,1 @@
+![[Instagram Square Pyramid Chart - CC.png|600]]

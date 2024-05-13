@@ -1,0 +1,1 @@
+Aquí se sitúa la variable `active` de las clases que implementan el mecanismo de control de [[IActivable]].

@@ -1,0 +1,1 @@
+Son referencias al mismo nivel jerárquico que la clase que guarda la variable. Por decir, en el caso de las características, estás variables guardan referencias a otras características, el caso del controlador, pueden ser otros controladores.
