@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Índice.md",
-                "mode": "preview",
+                "file": "Apartados/Principios.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Índice.md",
+                "file": "Apartados/Principios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Índice.md",
+                "file": "Apartados/Principios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Índice.md"
+                "file": "Apartados/Principios.md"
               }
             }
           }
@@ -162,10 +162,10 @@
   },
   "active": "301524b8ea8e30c0",
   "lastOpenFiles": [
+    "Índice.md",
     "Imágenes/LogoKimera.png",
     "Apartados/Especificación.md",
     "Apartados/Arquitectura.md",
-    "Índice.md",
     "Apartados/Principios.md",
     "Apartados/Funcionamiento/Funcionamiento.md",
     "Apartados/Funcionamiento/Feature.md",
