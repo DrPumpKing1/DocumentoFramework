@@ -1,0 +1,1 @@
+Las ventajas de usar este framework es la escalabilidad que proporciona sumado al fácil reemplazo (*plug n play*) de las características para su uso en múltiples controladores (*code once, run everywhere*) manteniendo la coordinación de los componentes.

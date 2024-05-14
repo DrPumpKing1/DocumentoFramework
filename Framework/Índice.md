@@ -1,3 +1,5 @@
+Framework Kimera
+![[LogoKimera.png|150]]
 
 | Orden | Apartado               |
 | ----- | ---------------------- |
@@ -8,4 +10,5 @@
 | 5     | [[Principios]]         |
 | 6     | [[Prototipo]]          |
 | 7     | [[Planeamiento]]       |
+| 8     | [[Ventajas de uso]]    |
 

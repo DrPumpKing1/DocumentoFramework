@@ -14,9 +14,23 @@
               "type": "markdown",
               "state": {
                 "file": "Índice.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "475cda3c879c4ee0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f469431039030586",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -148,39 +162,40 @@
   },
   "active": "301524b8ea8e30c0",
   "lastOpenFiles": [
-    "Imágenes/diagram.png",
-    "Apartados/Prototipo/Detalles de Prototipo.md",
-    "Apartados/Prototipo/Prototipo.md",
-    "Apartados/Prototipo",
-    "Apartados/Funcionamiento/Feature.md",
-    "Índice.md",
+    "Imágenes/LogoKimera.png",
     "Apartados/Especificación.md",
     "Apartados/Arquitectura.md",
-    "Apartados/Funcionamiento/Controller.md",
-    "Apartados/Variables/Tipos de Variables.md",
-    "Apartados",
+    "Índice.md",
     "Apartados/Principios.md",
-    "Imágenes/Instagram Square Pyramid Chart - CC.png",
-    "Imágenes/Framework.drawio.png",
-    "Imágenes/EstadoController.drawio.png",
     "Apartados/Funcionamiento/Funcionamiento.md",
+    "Apartados/Funcionamiento/Feature.md",
     "Apartados/Funcionamiento/Controller/Estado del Controller.md",
+    "Apartados/Funcionamiento/IFeature.md",
+    "Apartados/Prototipo/Detalles de Prototipo.md",
+    "Apartados/Prototipo/Prototipo.md",
+    "Ventajas de uso.md",
+    "Apartados/Funcionamiento/Controller.md",
     "Apartados/Funcionamiento/Controller/Update.md",
     "Apartados/Funcionamiento/Controller/Call To Action.md",
     "Apartados/Funcionamiento/Controller/Setup.md",
-    "Apartados/Variables/Estado.md",
-    "Apartados/Funcionamiento/Settings.md",
-    "Apartados/Funcionamiento/Controller",
     "Apartados/Funcionamiento/IActivable.md",
-    "Apartados/Funcionamiento/IFeature.md",
-    "Apartados/Funcionamiento",
-    "Apartados/Variables/Jerarquía de componentes.md",
-    "Implementación/Implementación.md",
-    "Implementación/Settings.md",
-    "Apartados/Variables/Referencias.md",
+    "Apartados/Funcionamiento/Settings.md",
     "Apartados/Variables/Componentes.md",
+    "Apartados/Variables/Tipos de Variables.md",
+    "Apartados/Variables/Jerarquía de componentes.md",
+    "Apartados/Variables/Referencias.md",
+    "Apartados/Variables/Control.md",
     "Apartados/Variables/Propiedades.md",
+    "Apartados/Variables/Estado.md",
     "Apartados/Variables/Configuración.md",
+    "Imágenes/diagram.png",
+    "Apartados/Prototipo",
+    "Apartados",
+    "Imágenes/Instagram Square Pyramid Chart - CC.png",
+    "Imágenes/Framework.drawio.png",
+    "Imágenes/EstadoController.drawio.png",
+    "Apartados/Funcionamiento/Controller",
+    "Apartados/Funcionamiento",
     "Implementación",
     "Apartados/Variables",
     "Imágenes/Componentes.drawio.png",
