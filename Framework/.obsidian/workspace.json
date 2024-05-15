@@ -13,24 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apartados/Principios.md",
+                "file": "Apartados/Jerarquía Kimera.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "475cda3c879c4ee0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f469431039030586",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Apartados/Principios.md",
+                "file": "Apartados/Jerarquía Kimera.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Apartados/Principios.md",
+                "file": "Apartados/Jerarquía Kimera.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Apartados/Principios.md"
+                "file": "Apartados/Jerarquía Kimera.md"
               }
             }
           }
@@ -160,12 +146,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f469431039030586",
+  "active": "301524b8ea8e30c0",
   "lastOpenFiles": [
+    "Apartados/Especificación.md",
+    "Imágenes/JerarquíaKimera2.drawio.png",
+    "Apartados/Jerarquía Kimera.md",
+    "Imágenes/EstadoController.drawio.png",
+    "Imágenes/Framework.drawio.png",
+    "Imágenes/Instagram Square Pyramid Chart - CC.png",
+    "Imágenes/LogoKimera.png",
+    "Imágenes/JerarquíaKimera.drawio.png",
+    "Apartados/Funcionamiento/IActivable.md",
+    "Apartados/Variables/Control.md",
+    "Apartados/Variables/Jerarquía de componentes.md",
+    "Imágenes/diagram.png",
+    "Apartados/Planeamiento/Planeamiento.md",
     "Apartados/Principios.md",
     "Índice.md",
-    "Imágenes/LogoKimera.png",
-    "Apartados/Especificación.md",
+    "Ventajas de uso.md",
+    "Apartados/Planeamiento",
     "Apartados/Arquitectura.md",
     "Apartados/Funcionamiento/Funcionamiento.md",
     "Apartados/Funcionamiento/Feature.md",
@@ -173,27 +172,17 @@
     "Apartados/Funcionamiento/IFeature.md",
     "Apartados/Prototipo/Detalles de Prototipo.md",
     "Apartados/Prototipo/Prototipo.md",
-    "Ventajas de uso.md",
     "Apartados/Funcionamiento/Controller.md",
     "Apartados/Funcionamiento/Controller/Update.md",
     "Apartados/Funcionamiento/Controller/Call To Action.md",
     "Apartados/Funcionamiento/Controller/Setup.md",
-    "Apartados/Funcionamiento/IActivable.md",
     "Apartados/Funcionamiento/Settings.md",
     "Apartados/Variables/Componentes.md",
     "Apartados/Variables/Tipos de Variables.md",
-    "Apartados/Variables/Jerarquía de componentes.md",
     "Apartados/Variables/Referencias.md",
-    "Apartados/Variables/Control.md",
     "Apartados/Variables/Propiedades.md",
-    "Apartados/Variables/Estado.md",
-    "Apartados/Variables/Configuración.md",
-    "Imágenes/diagram.png",
     "Apartados/Prototipo",
     "Apartados",
-    "Imágenes/Instagram Square Pyramid Chart - CC.png",
-    "Imágenes/Framework.drawio.png",
-    "Imágenes/EstadoController.drawio.png",
     "Apartados/Funcionamiento/Controller",
     "Apartados/Funcionamiento",
     "Implementación",

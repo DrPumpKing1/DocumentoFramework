@@ -11,4 +11,5 @@ Framework Kimera
 | 6     | [[Prototipo]]          |
 | 7     | [[Planeamiento]]       |
 | 8     | [[Ventajas de uso]]    |
+| 9     | [[Jerarquía Kimera]]   |
 
