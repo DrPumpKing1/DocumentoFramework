@@ -2,22 +2,27 @@ Diagrama abstracción del diagrama de clases UML en el cual se define la estruct
 
 Tiene el siguiente modelo:
 
-![[JerarquíaKimera2.drawio.png|700]]
+![[JerarquíaKimera.drawio.png]]
 
 Elementos:
 1. El cubo representa el controlador.
 2. Los cuadrados de línea discontinua representan el estado del controlador fragmentado en interfaces `...Entity`.
-3. Los cuadros son sub controladores.
-4. Los cuadrados son características.
-5. Los cuadrados de línea gruesa son la característica principal de su controlador o sub controlador.
+3. Los frames son sub controladores.
+4. Los rectángulos son características.
+5. Los rectángulos de línea gruesa señalan la característica principal de su controlador o sub controlador.
 6. Los diamantes son otros componentes.
+7. El archivo representa clases externas con referencias estáticas.
 
 Relaciones:
-1. La flecha continua sólida es **influencia**.
-2. La flecha continua vacía es **llamado**.
-3. La flecha discontinua sólida es **dependencia**.
-4. La flecha discontinua vacía es dependencia **opcional**.
-5. El círculo sólido de línea continua es una relación de **control**.
-6. El diamante vacío de línea continua es **agregación**
-7. El diamante sólido de línea continua es **composición**.
-8. No se contempla **herencia**.
+1. La flecha continua sólida es **asociación dirigida**.
+2. La línea continua es **asociación**
+3. La flecha continua vacía es **herencia**.
+4. La flecha discontinua sólida es **dependencia**.
+5. La flecha discontinua vacía es **dependencia opcional**.
+6. El círculo sólido de línea continua es una relación de **control**.
+7. El diamante vacío de línea continua es **agregación**
+8. El diamante sólido de línea continua es **composición**.
+
+### Leyenda
+
+![[LeyendaJerarquíaKimera.drawio.png]]
