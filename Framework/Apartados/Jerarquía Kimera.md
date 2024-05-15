@@ -1,5 +1,7 @@
 Diagrama abstracción del diagrama de clases UML en el cual se define la estructura de un controlador y sus características y dependencias siguiendo la [[Especificación]] y la [[Jerarquía de componentes]].
 
+Cabe decir que es un diagrama que se alienta a usar con el grado de abstracción que vean conveniente los usuarios.
+
 Tiene el siguiente modelo:
 
 ![[JerarquíaKimera.drawio.png]]
