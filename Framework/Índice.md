@@ -1,4 +1,6 @@
 Framework Kimera
+
+Por Strange Bond
 ![[LogoKimera.png|150]]
 
 | Orden | Apartado               |

@@ -13,7 +13,7 @@ Elementos:
 4. Los rectángulos son características.
 5. Los rectángulos de línea gruesa señalan la característica principal de su controlador o sub controlador.
 6. Los diamantes son otros componentes.
-7. El archivo representa clases externas con referencias estáticas.
+7. El archivo representa otros tipos de archivos: clases o interfaces.
 
 Relaciones:
 1. La flecha continua sólida es **asociación dirigida**.

@@ -4,6 +4,6 @@ El funcionamiento de este Framework sienta sus bases en varias especificaciones 
 | ----- | -------------- |
 | 1     | [[Settings]]   |
 | 2     | [[Controller]] |
-| 3     | [[IFeature]]   |
+| 3     | [[Interfaces Feature]]   |
 | 4     | [[IActivable]] |
 | 5     | [[Feature]]    |
