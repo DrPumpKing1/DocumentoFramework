@@ -8,12 +8,13 @@ Tiene el siguiente modelo:
 
 Elementos:
 1. El cubo representa el controlador.
-2. Los cuadrados de línea discontinua representan el estado del controlador fragmentado en interfaces `...Entity`.
-3. Los frames son sub controladores.
-4. Los rectángulos son características.
-5. Los rectángulos de línea gruesa señalan la característica principal de su controlador o sub controlador.
-6. Los diamantes son otros componentes.
-7. El archivo representa clases externas con referencias estáticas.
+2. El cubo de línea discontinua representa referencias a controladores externos.
+3. Los cuadrados de línea discontinua representan el estado del controlador fragmentado en interfaces `...Entity`.
+4. Los frames son sub controladores.
+5. Los rectángulos son características.
+6. Los rectángulos de línea gruesa señalan la característica principal de su controlador o sub controlador.
+7. Los diamantes son otros componentes.
+8. El archivo representa clases externas con referencias estáticas.
 
 Relaciones:
 1. La flecha continua sólida es **asociación dirigida**.

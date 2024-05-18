@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apartados/Jerarquía Kimera.md",
+                "file": "Apartados/Especificación.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Apartados/Jerarquía Kimera.md",
+                "file": "Apartados/Especificación.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Apartados/Jerarquía Kimera.md",
+                "file": "Apartados/Especificación.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Apartados/Jerarquía Kimera.md"
+                "file": "Apartados/Especificación.md"
               }
             }
           }
@@ -148,40 +148,42 @@
   },
   "active": "301524b8ea8e30c0",
   "lastOpenFiles": [
+    "Apartados/Funcionamiento/Controller/Call To Action.md",
+    "Apartados/Planeamiento/Planeamiento.md",
+    "Índice.md",
+    "Apartados/Ventajas de uso.md",
+    "Apartados/Jerarquía Kimera del jugador.md",
+    "Apartados/Jerarquía Kimera.md",
+    "Apartados/Template Feature.md",
+    "Apartados/Escribir Features.md",
+    "Apartados/Prototipo/Prototipo.md",
+    "Apartados/Prototipo/Detalles de Prototipo.md",
+    "Imágenes/EstadoController.drawio.png",
+    "Imágenes/diagram.png",
+    "Imágenes/Untitled",
+    "Imágenes/KimeraPlayer.drawio.png",
     "Apartados/Especificación.md",
     "Apartados/Funcionamiento/Interfaces Feature.md",
-    "Apartados/Jerarquía Kimera.md",
     "Imágenes/LeyendaJerarquíaKimera.drawio.png",
-    "Índice.md",
     "Imágenes/JerarquíaKimera.drawio.png",
     "Apartados/Variables/Jerarquía de componentes.md",
     "Apartados/Arquitectura.md",
-    "Imágenes/diagram.png",
     "Imágenes/LogoKimera.png",
-    "Apartados/Planeamiento/Planeamiento.md",
-    "Apartados/Prototipo/Detalles de Prototipo.md",
     "Imágenes/Instagram Square Pyramid Chart - CC.png",
     "Imágenes/Framework.drawio.png",
     "Imágenes/JerarquíaKimera2.drawio.png",
-    "Imágenes/EstadoController.drawio.png",
     "Apartados/Funcionamiento/IActivable.md",
     "Apartados/Variables/Control.md",
     "Apartados/Principios.md",
-    "Ventajas de uso.md",
     "Apartados/Planeamiento",
     "Apartados/Funcionamiento/Funcionamiento.md",
     "Apartados/Funcionamiento/Feature.md",
     "Apartados/Funcionamiento/Controller/Estado del Controller.md",
-    "Apartados/Prototipo/Prototipo.md",
     "Apartados/Funcionamiento/Controller.md",
     "Apartados/Funcionamiento/Controller/Update.md",
-    "Apartados/Funcionamiento/Controller/Call To Action.md",
     "Apartados/Funcionamiento/Controller/Setup.md",
     "Apartados/Funcionamiento/Settings.md",
     "Apartados/Variables/Componentes.md",
-    "Apartados/Variables/Tipos de Variables.md",
-    "Apartados/Variables/Referencias.md",
-    "Apartados/Variables/Propiedades.md",
     "Apartados/Prototipo",
     "Apartados",
     "Apartados/Funcionamiento/Controller",
