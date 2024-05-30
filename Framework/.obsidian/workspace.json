@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apartados/Especificación.md",
+                "file": "Índice.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Apartados/Especificación.md",
+                "file": "Índice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Apartados/Especificación.md",
+                "file": "Índice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Apartados/Especificación.md"
+                "file": "Índice.md"
               }
             }
           }
@@ -146,8 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "301524b8ea8e30c0",
+  "active": "f2200e6cfff1820a",
   "lastOpenFiles": [
+    "Imágenes/Recurso_2Aver.png",
+    "Apartados/Especificación.md",
     "Apartados/Funcionamiento/Controller/Call To Action.md",
     "Apartados/Planeamiento/Planeamiento.md",
     "Índice.md",
@@ -162,7 +164,6 @@
     "Imágenes/diagram.png",
     "Imágenes/Untitled",
     "Imágenes/KimeraPlayer.drawio.png",
-    "Apartados/Especificación.md",
     "Apartados/Funcionamiento/Interfaces Feature.md",
     "Imágenes/LeyendaJerarquíaKimera.drawio.png",
     "Imágenes/JerarquíaKimera.drawio.png",

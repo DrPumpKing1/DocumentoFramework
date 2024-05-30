@@ -1,7 +1,7 @@
 Framework Kimera
 
-Por Strange Bond
-![[LogoKimera.png|150]]
+Por Salvador Rodriguez y Alejandro Medina
+![[Recurso_2Aver.png|150]]
 
 | Orden | Apartado               |
 | ----- | ---------------------- |
